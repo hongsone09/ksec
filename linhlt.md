@@ -1,3 +1,3 @@
-﻿#Lê Thanh Lĩnh
-##AT11D
-###Học viện kỹ thuật Mật Mã
+﻿#1.Tổng quan về TCP/IP và OSI
+##1.1. Tổng quan về TCP/IP
+###1.2. Tổng quan về OSI
