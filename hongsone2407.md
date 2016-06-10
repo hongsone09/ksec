@@ -104,6 +104,8 @@
  </ul>
  <ul>
  <li>Cung cấp các phương tiện cho người sử dụng. Lớp đưa ra các giao thức:HTTP.FTP,SMTP,POP3,Telnet
+ </li>
+ </ul>
  **2. Mô hình TCP/IP**
  <img src="http://www.ittraining.vn/wp-content/uploads/2016/02/mo-hinh-OSI-v%C3%A0-TCP.png">
  <ul>
@@ -116,7 +118,7 @@
  <ul>
  <li>Là nơi các chương trình mạng thường dùng làm việc nhằm liên lạc với các nút trong mạng.Giao tiếp xảy ra trong tầng này tùy theo các ứng dụng cụ thể và dữ liệu được truyền từ chương trình, trong định dạng được sử dụng nội bộ và được đóng gói theo một giao thức tầng giao vận.
  </li>
- <ul>
+ </ul>
  **2.2 Tầng giao vận**
  <ul>
  <li>Kết hợp các khả năng truyền thông điệp trực tiếp không phụ thuộc vào mạng bên dưới,kèm theo kiểm soát lỗi, phân mảnh và điều khiển lưu lượng.
