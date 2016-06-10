@@ -1,5 +1,5 @@
-**I.TÌM HIỂU VỀ MÔ HÌNH OSI VÀ TCP/IP**
-**1. MÔ HÌNH OSI**
+#**I.TÌM HIỂU VỀ MÔ HÌNH OSI VÀ TCP/IP**
+##**1. MÔ HÌNH OSI**
 <ul>
 <li>Mô hình OSI(Open Systems Interconnection Reference Model) nghĩa là Mô hình tham chiếu kết nối các hệ thống mở dựa vào nguyên lý tầng cấp, lý giải một cách trừu tượng kỹ thuật kết nối truyền thông giữa các máy vi tính và thiết kế giao thức mạng giữa chúng.
  </li>
@@ -74,13 +74,13 @@
  <ul>
  <li>Đảm bảo việc truyền thông tin là đáng tin cậy(end to end). Các giao thức: TCP,UDP,SPX
  </li>
- <ul>
+ </ul>
  **1.5 Tầng Session**
  <ul>
  <li>Thiết lập, quản lí, duy trì phiên thông tin giao dịch giữa 2 hệ thống.
  </li>
  </ul>
- <ul>
+ </ul>
  <li>Giải quyết những vấn đề về đồng bộ hóa. Sử dụng các giao thức: NFS(network file system), X-window system, ASP
  </li>
  </ul>
