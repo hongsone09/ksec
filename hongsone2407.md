@@ -1,5 +1,5 @@
-﻿#**I.TÌM HIỂU VỀ MÔ HÌNH OSI VÀ TCP/IP**
-##**1. MÔ HÌNH OSI**
+**I.TÌM HIỂU VỀ MÔ HÌNH OSI VÀ TCP/IP**
+**1. MÔ HÌNH OSI**
 <ul>
 <li>Mô hình OSI(Open Systems Interconnection Reference Model) nghĩa là Mô hình tham chiếu kết nối các hệ thống mở dựa vào nguyên lý tầng cấp, lý giải một cách trừu tượng kỹ thuật kết nối truyền thông giữa các máy vi tính và thiết kế giao thức mạng giữa chúng.
  </li>
@@ -141,7 +141,6 @@
  </li>
  </ul>
  **II.MỘT SỐ GIAO THỨC LỚP ỨNG DỤNG TRONG MÔ HÌNH TCP/IP**
- <img src="https://voer.edu.vn/file/12548">
  **1. Dịch vụ đăng nhập từ xa TELNET**
  <ul>
  <li>Telnet là ứng dụng sử dụng telnet cho phép người dùng có thể đăng nhập vào một hệ thống ở xa và làm việc giống như đang sư dụng nội bộ máy tính vậy. Người sử dụng dùng chương trình Telnet Client thực hiện một số kết nối TCP với một Telnet Server ở cổng 23.
