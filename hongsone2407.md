@@ -80,7 +80,7 @@
  <li>Thiết lập, quản lí, duy trì phiên thông tin giao dịch giữa 2 hệ thống.
  </li>
  </ul>
- </ul>
+ <ul>
  <li>Giải quyết những vấn đề về đồng bộ hóa. Sử dụng các giao thức: NFS(network file system), X-window system, ASP
  </li>
  </ul>
