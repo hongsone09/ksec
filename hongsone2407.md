@@ -204,7 +204,7 @@
  <ul>
  <li>Giao thức Bootstrap gọi là BOOTP cung cấp một cách khác với RARP cho máy tính nào cần xác định địa chỉ IP của nó. 
  </li>
- <ul>
+ </ul>
  <ul>
  <li>BOOTP tổng quát hơn RARP vì nó sử dụng UDP nên có thể mở rộng việc bootstrap đi qua bộ định tuyến.
  </li>
