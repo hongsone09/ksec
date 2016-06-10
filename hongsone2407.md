@@ -226,8 +226,10 @@
  <li>Ngày nay đa phần các giao thức đều chạy trên chồng giao thức TCP/IP, thế nhưng trong việc học tập, giảng dạy cũng như làm việc thì luôn đối chiếu vào mô hình OSI. Chính vì thế để đáp ứng sự cần thiết của mô hình OSI cũng như rút ngắn các tầng không quan trọng lắm người ta nghĩ ra mô hình 5 lớp.
  </li>
  </ul>
+ <ul>
  <li>Mô hình 5 lớp gồm các lớp:
  </li>
+ </ul>
  <ul>
  <li>Application
  </li>
@@ -250,6 +252,8 @@
  </ul>
  <ul>
  <li>5 lớp này được quan tâm nhất khi cấu hình và troubleshoot hệ thống mạng
+ </li>
+ </ul>
  
  
  
