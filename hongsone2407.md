@@ -159,6 +159,8 @@
  </ul>
  <ul>
  <li>FTP sử dụng cổng TCP ở lớp Transport để truyền file một cách tin cậy.Tại FTP Server thì sẽ được gán các cổng cố định là 20,21 còn ở Client thì sẽ được gán giá trị bất kỳ lớn hơn 1023. Để có thể hoạt động FTP thiết lập 2 kết nối. Một cho login và theo đó là giao thức Telnet. Hai là cho quản lý dữ liệu.
+ </li>
+ </ul>
  **3. Trivial File Transfer Protocol(TFTP)**
  <ul>
  <li>Mặc dù FTP là giao thức truyền tập tin tổng quát trong bộ giao thức TCP/IP nhưng lại rất phức tạp. Nhiều ứng dụng không cần đến tất cả các tính năng mà FTP cung cấp. Do đó người ta đưa ra một giao thức thứ hai cung cấp dịch vụ ít tốn kém và không phức tạp được gọi là TFTP.
