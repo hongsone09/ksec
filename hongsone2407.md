@@ -17,7 +17,7 @@
  <img src="http://www.vnpro.vn/wp-content/uploads/2015/11/Osi-model-jb.png">
  </li>
  </ul>
- ** 1.1 Tầng Physical**
+ **1.1 Tầng Physical**
  <ul>
  <li>Có liên quan tới việc truyền và nhận dòng cấu trúc nguyên bit trên một phương tiện vật lý.
  </li>
@@ -142,6 +142,7 @@
  <li>Tầng liên kết còn có thể được xem là bao gồm cả tầng vật lý-tầng là kết hợp các thành phần mạng vật lý và các thiết bị nối mạng có liên quan và các đặc tả mức thấp về các tín hiệu.
  </li>
  </ul>
+ 
   **II.MỘT SỐ GIAO THỨC LỚP ỨNG DỤNG TRONG MÔ HÌNH TCP/IP**
  **1. Dịch vụ đăng nhập từ xa TELNET**
  <ul>
